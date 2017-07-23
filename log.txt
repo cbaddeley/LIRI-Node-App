@@ -1,0 +1,118 @@
+
+***********************************************
+Action logged: write-what-it-does
+July 23rd 2017, 3:11:57 pm
+***********************************************
+
+-----------------------------------------------
+Command saved was: my-tweets
+-----------------------------------------------
+
+***********************************************
+Action logged: do-what-it-says
+July 23rd 2017, 3:12:00 pm
+***********************************************
+
+-----------------------------------------------
+Command read was: my-tweets
+-----------------------------------------------
+
+***********************************************
+Action logged: my-tweets
+July 23rd 2017, 3:12:02 pm
+***********************************************
+-----------------------------------------------
+Tweet from: July 21st 2017, 11:24:58 pm
+Eh, never mind. Stephen you can see I got the limit in there. :D
+-----------------------------------------------
+Tweet from: July 21st 2017, 11:23:57 pm
+Gotta get up to at least 20
+-----------------------------------------------
+Tweet from: July 21st 2017, 11:23:50 pm
+Another tweet
+-----------------------------------------------
+Tweet from: July 21st 2017, 11:23:42 pm
+I just gotta fill these tweets up
+-----------------------------------------------
+Tweet from: July 21st 2017, 9:52:17 pm
+Another Test
+-----------------------------------------------
+Tweet from: July 21st 2017, 9:17:38 pm
+test
+-----------------------------------------------
+
+***********************************************
+Action logged: write-what-it-does
+July 23rd 2017, 3:13:05 pm
+***********************************************
+
+-----------------------------------------------
+Command saved was: spotify-this-song and the movie or song title was: the other side of paradise
+-----------------------------------------------
+
+***********************************************
+Action logged: do-what-it-says
+July 23rd 2017, 3:13:09 pm
+***********************************************
+
+-----------------------------------------------
+Command read was: spotify-this-song and the song or movie was: 'the other side of paradise'
+-----------------------------------------------
+
+***********************************************
+Action logged: spotify-this-song
+Song or Movie searched: 'the other side of paradise'
+July 23rd 2017, 3:13:12 pm
+***********************************************
+
+Song: The Other Side Of Paradise
+Artist: Glass Animals
+Album: How To Be A Human Being
+Preview link: https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ
+-----------------------------------------------
+
+Song: The Other Side of Paradise
+Artist: Polarization
+Album: Chasing The Light
+Preview link: https://open.spotify.com/track/4Ii5eJ1crW0F5X8z3JFzUl
+-----------------------------------------------
+
+Song: Other Side Of Paradise - The
+Artist: Hoodoo Gurus
+Album: Mars Needs Guitars!
+Preview link: https://open.spotify.com/track/5Zl8YHcgUCKdbkV8ThY6L7
+-----------------------------------------------
+
+***********************************************
+Action logged: write-what-it-does
+July 23rd 2017, 3:14:09 pm
+***********************************************
+
+-----------------------------------------------
+Command saved was: movie-this and the movie or song title was: kung fu hustle
+-----------------------------------------------
+
+***********************************************
+Action logged: do-what-it-says
+July 23rd 2017, 3:14:14 pm
+***********************************************
+
+-----------------------------------------------
+Command read was: movie-this and the song or movie was: 'kung fu hustle'
+-----------------------------------------------
+
+***********************************************
+Action logged: movie-this
+Song or Movie searched: 'kung fu hustle'
+July 23rd 2017, 3:14:15 pm
+***********************************************
+
+Title: Kung Fu Hustle
+Year: 2004
+Actors: Stephen Chow, Xiaogang Feng, Wah Yuen, Zhihua Dong
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 90%
+Country or countries where movie was produced: Hong Kong, China
+Language(s): Cantonese
+Plot: In Shanghai, China in the 1940s, a wannabe gangster aspires to join the notorious "Axe Gang" while residents of a housing complex exhibit extraordinary powers in defending their turf.
+-----------------------------------------------
